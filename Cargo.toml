@@ -1,9 +1,12 @@
 [package]
 name = "whoareyou"
+description = "We always ask `whoami`, but why do we never ask `whoareyou`?"
+authors = ["Berwyn Jamesson <berwyn.codeweaver@gmail.com>"]
+license-file = "LICENSE"
+homepage = "https://github.com/berwyn/whoareyou"
+repository = "https://github.com/berwyn/whoareyou"
 version = "0.1.0"
 edition = "2018"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
 hostname = "0.3.1"
